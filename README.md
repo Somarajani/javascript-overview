@@ -2,7 +2,7 @@
 
 > Practice basic features of JavaScript
 
-- [Webpage](https://github.com/denisecase/javascript-overview)
+- [Demo](https://profcase.github.io/javascript-overview/)
 - [Source](https://denisecase.github.io/javascript-overview/)
 
 ## Terms
