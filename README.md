@@ -25,3 +25,4 @@
 - local storage
 - session storage
 - ajax
+- Array
